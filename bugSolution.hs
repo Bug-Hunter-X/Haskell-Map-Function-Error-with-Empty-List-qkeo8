@@ -1,0 +1,1 @@
+This version handles the empty list case explicitly, preventing the runtime error.  The use of `case` allows for pattern matching on both empty and non-empty lists, making the function more robust.
